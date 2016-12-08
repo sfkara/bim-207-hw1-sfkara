@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="HW-1.0" />
+        <module name="HW1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HW-1.0" target="1.5" />
+      <module name="HW1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
